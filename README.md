@@ -1,12 +1,5 @@
 # Chat - AI
 
-AI Chat App using Generative Language Client API
+This web application provides a interface in which we can ask our querry from ai chat bot whom will give responses in seconds and i have used Google gemini api for the api integration by using axios function in react.
 
-[chat-ai](https://ai.visheshpandey.com)
-
-## Setup Procedure
-
-- Copy .env.example to .env
-- Get API key from: [api-key](https://aistudio.google.com/app/apikey)
-- `npm install`
-- `npm run dev`
+Live: https://chattwithai.netlify.app/
